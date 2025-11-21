@@ -3,8 +3,8 @@
 I'm a Full-stack Developer 
 
 ## Skills
-- **Frontend:** React, HTML, CSS, Tailwind ,Bootstrap , ReactNative , Flutter
-- **Backend:** Node.js, Express
+- **Frontend:** React, HTML, CSS, Tailwind , ReactNative , Flutter , WordPress 
+- **Backend:** Node.js(ExpressJs) 
 - **Database:** MongoDB, MySQL
 - **Other:** Git, REST API
 
